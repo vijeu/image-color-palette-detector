@@ -1,2 +1,2 @@
 # image-color-palette-detector
-A GUI tool for extracting and visualizing the dominant color palette from images using K-Means clustering.
+This project is a desktop application built with Tkinter and CustomTkinter that allows users to select an image and extract its dominant color palette using the K-Means clustering algorithm. It provides a progress bar during processing and displays both the selected image and the resulting color spectrum. Useful for designers, artists, and developers interested in color analysis from photos.
