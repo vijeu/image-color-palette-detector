@@ -103,5 +103,5 @@ window.geometry(f'{window_width}x{window_height}+{left}+{top}')
 window.resizable(False, False)
 
 # وارد کردن آرم برای برنامه و اجرای برنامه
-window.iconbitmap('F:/anaconda/project/ax/icon.ico')
+window.iconbitmap('/icon/icon.ico')
 window.mainloop()
