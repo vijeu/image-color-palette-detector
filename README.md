@@ -67,10 +67,12 @@ ColorPaletteDetector/
 ```
 
 ---
+
 ## :pushpin: Notes
 - GUI labels and messages are in **Persian (Farsi)**.
 - You can customize the number of colors by changing the `n_clusters` parameter in the code.
 - To change the app icon, replace `icon.ico` with your own `.ico` file.
+
 ---
 
 ## :arrow_forward: Usage
